@@ -59,4 +59,4 @@ Chitturi Prudhvi Raj
 	-📧Email-	rprudhvi144@gmail.com
 	
 ##⚖️ License
-This project is open-source and available under the MIT License.
+This project is open-source License.
