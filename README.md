@@ -2,8 +2,6 @@
 
 A desktop-based biomedical signal processing application that analyzes ECG data, detects heart abnormalities, and compares patient records over time using Python. Built with a GUI using Tkinter and powered by NeuroKit2, NumPy, Matplotlib, and SciPy.
 
-![ECG Screenshot](assets/ecg-screenshot.png) <!-- Replace with your actual image path -->
-
 ---
 
 ## 🚀 Features
